@@ -3,4 +3,4 @@
 Hi and welcome to a few projects I have been doing inbetween finishing University and finding employment.
 
 Current Project List:
-Markup : *MNIST dataset classifier using Tensorflow
+- MNIST dataset classifier using Tensorflow
