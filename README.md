@@ -5,6 +5,6 @@ Hi and welcome to a few projects and notes I have been working on inbetween fini
 Current Project List:
 - MNIST dataset classifier using Tensorflow
 - Notes/Fundamentals
--- A/B testing and Hypothesis testing notes/cheatsheet.
+- A/B testing and Hypothesis testing notes/cheatsheet.
 - Confusion Matrix, Metrics (ROC, AUC etc) and Type I/II error notes
--L1, L2 Regularization, and Elastic-Net Regression too
+- L1, L2 Regularization, and Elastic-Net Regression too
