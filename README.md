@@ -6,6 +6,7 @@ Current Project List:
 - Actual ML Projects
     - MNIST dataset classifier using Tensorflow
     - MNIST dataset classifider using neural networks FROM SCRATCH!!
+    - Deep Q Networks implemented on a custom environment without the target network... halfway I guess!
 - Notes/Fundamentals
     - A/B testing and Hypothesis testing notes/cheatsheet.
     - Confusion Matrix, Metrics (ROC, AUC etc) and Type I/II error notes
